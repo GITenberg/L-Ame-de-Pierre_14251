@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1336
     wikipedia: http://en.wikipedia.org/wiki/Georges_Ohnet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14251#L-Ame-de-Pierre
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text
